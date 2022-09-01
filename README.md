@@ -32,22 +32,17 @@ Laravel interview question for mid level
 18. What is accessors and mutators
 19. What is ORM
 20. What is the use of migration
-21	rollback
-22	how to logout 100 loggedin user from admin
-23	How will you check table is exists or in the database?
-24	What is Closure in Laravel?
-25	List some Aggregates methods provided by query builder in Laravel
-26	What are collections?
-27	What are contracts?
-28	What are route groups?
-29	What is Middleware and how to create one in Laravel?
-30	What is a Service Provider?
-31	What is a Service Container in Laravel?
-32	What are facades?
-33	What are Relationships in Laravel?
-34	What are the new features of Laravel 8?
-35	reverse routing
-36	laravel vs codeigniter
-37	Explain laravel Request Lifecycle
-38	How to update laravel version
-39	dependency injection
+21. What is rollback
+22. What is how to logout 100 loggedin user from admin
+23. What is How will you check table is exists or in the database?
+24. What is What is Closure in Laravel?
+25. What is List some Aggregates methods provided by query builder in Laravel
+26. What are route groups?
+27. What is Middleware and how to create one in Laravel?
+28.	What is a Service Provider?
+29.	What are facades?
+30.	What are Relationships in Laravel?
+31.	What is Reverse routing
+32.	Explain laravel Request Lifecycle
+33.	How to update laravel version in existing project
+
