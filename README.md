@@ -46,3 +46,34 @@ Laravel interview question for mid level
 32.	Explain laravel Request Lifecycle
 33.	How to update laravel version in existing project
 
+
+## Design Pattern
+1.	Singleton methodolgy
+2.	Functional programming vs OOPS
+3.	Strategy design pattern
+4.	Observer design pattern
+
+
+## MySQL
+1. Fetch third highest salary
+2. All types of join
+3. Store procedure
+4. Define Indexing
+5. Define Comosite key, foreign key, unique key
+6. Process of erformance optimzation mysql
+7. Explain Storage enginme, MyISM, Innodb
+8. What is cluster
+10. Give an example of group by and having
+11. Why we use normalisation
+12. What is transaction
+13. What is Sql injection
+14. How to prevent sql injection
+
+
+## Rest API
+1. All types of  response code meaning like 200, 201 etc
+2. All http methods defination like GET, POST
+3. Differance between PUT and PATCH
+4. Rest API vs Restful API difference
+
+
