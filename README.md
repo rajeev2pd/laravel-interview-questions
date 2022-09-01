@@ -1,12 +1,53 @@
 # laravel-interview-questions
 Laravel interview question for mid level
 
+## PHP
+1. Callback function
+2. Difference between session and cookie
+3. Difference between CURL & AJAX
+4. Array compare function
+5. Use of Htaccess file
+6. What is composer
+8. How to delete all session data, so that all users must re-log in?
 
-1	callback function
-2	diff between session and cookie
-3	diff between curl & ajax
-4	array compare function
-5	use of htaccess file
-6	what is php artisan
-7	what is composer
-8	How to delete all session data, so that all users must re-log in?
+
+## Laravel
+1. How we will connect laravel DB from command line(terminal)
+2. What is Service container
+3. What is Dependecy injection
+4. What is Namespace
+5. Process of applying performance boost in any existing laravel project
+6. How we secure our laavel web application
+7. How we will secure api authentication
+8. What is Middleware
+9. What is Collections
+10. What is Facades
+11. Explain Laravel filesystem
+12. Whats new feature in laravel version 8 and laravel 9
+13. Difference between migrate refresh and fresh
+14. What is Soft delete
+15. What is throttling
+16. What is Localization
+17. What is contracts
+18. What is accessors and mutators
+19. What is ORM
+20. What is the use of migration
+21	rollback
+22	how to logout 100 loggedin user from admin
+23	How will you check table is exists or in the database?
+24	What is Closure in Laravel?
+25	List some Aggregates methods provided by query builder in Laravel
+26	What are collections?
+27	What are contracts?
+28	What are route groups?
+29	What is Middleware and how to create one in Laravel?
+30	What is a Service Provider?
+31	What is a Service Container in Laravel?
+32	What are facades?
+33	What are Relationships in Laravel?
+34	What are the new features of Laravel 8?
+35	reverse routing
+36	laravel vs codeigniter
+37	Explain laravel Request Lifecycle
+38	How to update laravel version
+39	dependency injection
